@@ -2,7 +2,7 @@
   "name": "website",
   "version": "1.0.0",
   "description": "Simple html page that shows some server information.",
-  "main": "site.js",
+  "main": "Site.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
